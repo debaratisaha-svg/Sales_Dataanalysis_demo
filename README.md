@@ -1,2 +1,2 @@
-# Sales_Dataanalysis_demo
+# Sales_DatAanalysis_demo
 This is my first git repository
