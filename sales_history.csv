@@ -1,0 +1,95 @@
+CustomerID,Product ID,Product-category,PurchaseDate,Quantity,UnitPrice,ProductCategory,PaymentMethod,ReviewRating,TotalPrice
+C5361,INV1000,Phone,2024-03-05,8,618.83,Office Supplies,Cash,1,4950.64
+C6231,INV1001,Laptop,2025-06-21,7,366.22,Electronics,Debit Card,3,2563.54
+C7704,INV1002,Chair,2023-06-25,5,634.51,Office Supplies,Credit Card,4,3172.55
+C2923,INV1003,Printer,2023-09-30,3,508.63,Office Supplies,Gift Card,1,1525.89
+C4847,INV1004,Monitor,2023-04-03,4,452.05,Electronics,Credit Card,2,1808.2
+C7317,INV1005,Chair,2023-04-11,3,209.79,Office Supplies,Gift Card,1,629.37
+C5076,INV1006,Desk,2024-06-19,3,88.74,Office Supplies,Debit Card,3,266.22
+C5181,INV1007,Chair,2023-08-16,8,273.92,Furniture,Credit Card,2,2191.36
+C9564,INV1008,Monitor,2023-02-11,6,718.79,Electronics,Gift Card,3,4312.74
+C7521,INV1009,Tablet,2025-06-14,7,100.37,Office Supplies,Debit Card,4,702.59
+C7713,INV1010,Desk,2023-09-24,2,453.05,Electronics,Credit Card,4,906.1
+C3269,INV1011,Desk,2025-04-25,7,528.22,Furniture,Debit Card,4,3697.54
+C7058,INV1012,Laptop,2024-09-28,1,539.67,Furniture,Cash,3,539.67
+C8718,INV1013,Phone,2025-01-26,2,797.46,Electronics,Credit Card,3,1594.92
+C2966,INV1014,Phone,2023-11-16,8,283.94,Electronics,Cash,1,2271.52
+C7327,INV1015,Tablet,2023-05-31,6,666.3,Electronics,Cash,1,3997.8
+C7040,INV1016,Laptop,2025-01-31,4,31.74,Electronics,Online,4,126.96
+C3223,INV1017,Laptop,2025-03-01,8,667.91,Electronics,Debit Card,2,5343.28
+C5087,INV1018,Chair,2024-01-24,4,656.57,Furniture,Debit Card,5,2626.28
+C2286,INV1019,Laptop,2025-05-13,7,706.72,Electronics,Cash,1,4947.04
+C5180,INV1020,Phone,2024-05-03,1,418.69,Electronics,Gift Card,3,418.69
+C2126,INV1021,Printer,2023-09-16,5,424.7,Electronics,Debit Card,4,2123.5
+C4341,INV1022,Monitor,2023-02-03,2,237.9,Electronics,Cash,3,475.8
+C3887,INV1023,Printer,2024-07-31,4,66.74,Electronics,Credit Card,5,266.96
+C3267,INV1024,Monitor,2025-07-11,3,91.46,Electronics,Credit Card,5,274.38
+C1293,INV1025,Monitor,2025-08-30,3,479.06,Electronics,Credit Card,3,1437.18
+C2226,INV1026,Phone,2025-09-14,1,485.68,Electronics,Cash,3,485.68
+C2233,INV1027,Chair,2025-07-16,3,797.97,Furniture,Online,3,2393.91
+C3122,INV1028,Desk,2024-11-30,1,720.74,Furniture,Credit Card,1,720.74
+C7834,INV1029,Desk,2023-03-03,8,721.24,Furniture,Gift Card,5,5769.92
+C1203,INV1030,Phone,2023-05-28,7,314.97,Electronics,Cash,1,2204.79
+C7819,INV1031,Desk,2024-11-07,2,793.27,Furniture,Gift Card,5,1586.54
+C2372,INV1032,Printer,2025-11-28,8,672.59,Electronics,Online,1,5380.72
+C4771,INV1033,Chair,2023-08-20,2,394.23,Furniture,Gift Card,5,788.46
+C1185,INV1034,Desk,2025-01-23,8,218.9,Furniture,Credit Card,2,1751.2
+C6611,INV1035,Desk,2025-06-24,4,423.39,Furniture,Gift Card,2,1693.56
+C4252,INV1036,Chair,2025-06-01,7,538.27,Furniture,Debit Card,2,3767.89
+C3204,INV1037,Printer,2025-10-13,6,183.13,Office Supplies,Credit Card,1,1098.78
+C5535,INV1038,Desk,2023-12-13,2,759.53,Furniture,Cash,4,1519.06
+C7267,INV1039,Printer,2025-11-30,4,666.77,Electronics,Gift Card,3,2667.08
+C1515,INV1040,Desk,2024-07-23,8,269.15,Furniture,Online,1,2153.2
+C6063,INV1041,Desk,2023-02-09,5,464.03,Furniture,Debit Card,4,2320.15
+C5364,INV1042,Printer,2024-05-01,1,618.73,Office Supplies,Debit Card,1,618.73
+C9771,INV1043,Desk,2025-01-25,2,367.38,Furniture,Cash,2,734.76
+C1176,INV1044,Laptop,2025-08-25,8,219.07,Electronics,Online,1,1752.56
+C6664,INV1045,Laptop,2025-12-01,4,231.77,Electronics,Online,5,927.08
+C4668,INV1046,Tablet,2023-06-28,3,326.13,Electronics,Gift Card,4,978.39
+C1110,INV1047,Laptop,2025-02-10,8,372.88,Electronics,Online,5,2983.04
+C4356,INV1048,Desk,2023-07-22,6,380.8,Furniture,Cash,2,2284.8
+C6076,INV1049,Laptop,2024-10-18,7,783.28,Electronics,Credit Card,1,5482.96
+C6604,INV1050,Chair,2025-05-13,2,48.58,Furniture,Credit Card,4,97.16
+C2049,INV1051,Phone,2025-05-28,4,649.83,Electronics,Cash,2,2599.32
+C3301,INV1052,Monitor,2025-08-21,6,554.38,Electronics,Debit Card,5,3326.28
+C9070,INV1053,Desk,2023-06-26,8,756.22,Furniture,Debit Card,4,6049.76
+C3692,INV1054,Monitor,2025-12-06,5,666.98,Electronics,Online,5,3334.9
+C4411,INV1055,Chair,2024-09-15,5,542.47,Furniture,Debit Card,5,2712.35
+C4292,INV1056,Monitor,2025-04-21,5,465.91,Electronics,Online,1,2329.55
+C1454,INV1057,Monitor,2023-04-01,1,491.02,Electronics,Online,4,491.02
+C3732,INV1058,Monitor,2023-05-15,2,402.09,Electronics,Online,4,804.18
+C9077,INV1059,Printer,2023-09-18,5,211.46,Electronics,Credit Card,4,1057.3
+C2779,INV1060,Tablet,2024-01-28,8,428.52,Electronics,Gift Card,5,3428.16
+C1373,INV1061,Phone,2023-03-14,5,120.49,Electronics,Debit Card,2,602.45
+C6276,INV1062,Laptop,2024-12-28,1,554.73,Electronics,Debit Card,5,554.73
+C3011,INV1063,Printer,2025-11-11,8,588.89,Office Supplies,Online,3,4711.12
+C8156,INV1064,Desk,2023-02-17,4,565.89,Furniture,Gift Card,4,2263.56
+C9749,INV1065,Tablet,2024-03-23,3,438.8,Electronics,Online,2,1316.4
+C6695,INV1066,Tablet,2024-01-06,3,200.86,Electronics,Credit Card,5,602.58
+C4187,INV1067,Chair,2023-07-18,4,189.55,Furniture,Debit Card,2,758.2
+C2589,INV1068,Laptop,2025-06-09,2,221.76,Electronics,Gift Card,5,443.52
+C1290,INV1069,Tablet,2023-07-16,3,175.92,Electronics,Debit Card,5,527.76
+C6919,INV1070,Desk,2023-08-25,6,729.45,Furniture,Online,3,4376.7
+C8898,INV1071,Monitor,2023-08-06,4,644.92,Electronics,Cash,1,2579.68
+C4023,INV1072,Tablet,2023-08-24,8,133.8,Electronics,Debit Card,2,1070.4
+C2560,INV1073,Tablet,2023-05-07,3,790.92,Electronics,Debit Card,4,2372.76
+C8650,INV1074,Phone,2025-05-23,2,274.2,Electronics,Online,3,548.4
+C1669,INV1075,Printer,2024-02-15,6,29.98,Office Supplies,Debit Card,4,179.88
+C4196,INV1076,Printer,2023-12-05,6,335.31,Electronics,Cash,5,2011.86
+C2389,INV1077,Tablet,2025-04-08,1,271.76,Electronics,Online,5,271.76
+C5231,INV1078,Laptop,2024-07-26,6,646.46,Electronics,Cash,2,3878.76
+C6405,INV1079,Tablet,2025-01-27,7,123.41,Electronics,Gift Card,2,863.87
+C6598,INV1080,Printer,2024-09-09,3,74.61,Office Supplies,Gift Card,1,223.83
+C1812,INV1081,Phone,2024-04-20,6,791.13,Electronics,Credit Card,3,4746.78
+C3981,INV1082,Chair,2025-12-27,4,533.49,Furniture,Cash,4,2133.96
+C2959,INV1083,Monitor,2025-03-20,8,519.86,Electronics,Online,1,4158.88
+C5204,INV1084,Phone,2025-06-27,2,595.04,Electronics,Gift Card,5,1190.08
+C1176,INV1085,Phone,2023-07-21,4,524.34,Electronics,Credit Card,3,2097.36
+C9320,INV1086,Chair,2025-05-01,6,448.05,Furniture,Online,5,2688.3
+C2248,INV1087,Tablet,2023-04-03,2,516.55,Electronics,Gift Card,2,1033.1
+C9879,INV1088,Printer,2023-04-30,3,686.07,Electronics,Gift Card,4,2058.21
+C6989,INV1089,Printer,2025-12-22,7,485.26,Electronics,Credit Card,4,3396.82
+C5645,INV1090,Desk,2024-08-29,5,456.3,Furniture,Cash,1,2281.5
+C3565,INV1091,Tablet,2025-04-17,4,475.89,Electronics,Gift Card,1,1903.56
+C6230,INV1092,Chair,2023-05-31,7,58.72,Furniture,Debit Card,4,411.04
+C4992,INV1093,Desk,2023-04-04,8,215.08,Furniture,Online,1,1720.64
